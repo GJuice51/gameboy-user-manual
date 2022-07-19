@@ -6,9 +6,9 @@ sidebar_position: 1
 
 Thank you for purchasing the Game Boy Color! The Game Boy Color features:
 
-- a high quality color display
-- up to 56 colors out of a palette of 32,000
-- infrared communication with other Game Boy Color devices
+- A high quality color display
+- Up to 56 colors out of a palette of 32,000
+- Infrared communication with other Game Boy Color devices
 
 ## First Steps
 
